@@ -1,7 +1,6 @@
 # Ignore JSON files
 *.json
 *.csv
-*.txt
 
 # other code
 .vscode/
