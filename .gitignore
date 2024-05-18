@@ -1,0 +1,8 @@
+# Ignore JSON files
+*.json
+*.csv
+*.txt
+
+# other code
+.vscode/
+__pycache__
